@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sonoff-Tasmota.iml" filepath="$PROJECT_DIR$/.idea/Sonoff-Tasmota.iml" />
+      <module fileurl="file://C:/Arduino Git/Sonoff-Tasmota Relay linked to GITHUB/.idea/Sonoff-Tasmota 1b.iml" filepath="C:/Arduino Git/Sonoff-Tasmota Relay linked to GITHUB/.idea/Sonoff-Tasmota 1b.iml" />
+    </modules>
+  </component>
+</project>
